@@ -1,5 +1,5 @@
 hi this second project
-address
-loc
-contact
-state
+address: ameerpet
+loc: hyd
+contact:9998836389
+state: telangana
