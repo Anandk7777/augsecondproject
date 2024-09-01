@@ -1,6 +1,6 @@
 testing purpuse
 hi this second project
 address: ameerpet & kphb
-loc: hyd
-contact:9998836389
+loc: hyderabad
+contact:0000000000
 state: telangana
